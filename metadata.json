@@ -1,0 +1,6 @@
+{
+  "name": "Urban Garden",
+  "description": "Adaptive terrace and organic gardening guide for urban environments, complete with seasonal tracking, water reminders, a seed-trading forum, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
